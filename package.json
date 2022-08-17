@@ -1,0 +1,22 @@
+{
+  "name": "test-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "code.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoh40/Test-Jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegoh40/Test-Jest/issues"
+  },
+  "homepage": "https://github.com/diegoh40/Test-Jest#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
